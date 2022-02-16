@@ -1,3 +1,3 @@
 # backgroundgen
-this is a practice for simple javascript
+  > this is a simple practice for javascript.
 
